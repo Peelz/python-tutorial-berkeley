@@ -20,5 +20,5 @@ if __name__ == "__main__":
 
     # Code here
 
-
+    print (total_value)
     
